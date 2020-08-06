@@ -1,4 +1,4 @@
-package com.nomealuno.demoacmeap.exception;
+package com.paulorigo.demoacmeap.exception;
 
 import java.util.Date;
 

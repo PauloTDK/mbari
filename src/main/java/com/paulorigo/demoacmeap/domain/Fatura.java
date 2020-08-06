@@ -1,4 +1,4 @@
-package com.nomealuno.demoacmeap.domain;
+package com.paulorigo.demoacmeap.domain;
 
 import java.util.Date;
 
